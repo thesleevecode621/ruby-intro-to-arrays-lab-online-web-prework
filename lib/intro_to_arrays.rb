@@ -17,3 +17,4 @@ def instantiate_new_array
  def last_element(array)
    array[-1]
  end
+ 
