@@ -11,4 +11,4 @@ def instantiate_new_array
  def first_element(array)
    array[0]
  end
- def 
+ defmy_third_element 
