@@ -8,6 +8,6 @@ def instantiate_new_array
    
  end
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
- def first_element(@taylor_swift)
+ def first_element(array)
    @taylor_swift.first
  end
