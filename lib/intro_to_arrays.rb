@@ -7,5 +7,5 @@ def instantiate_new_array
    @my_two_array=["a","b"]
    
  end
- 
+  @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
  def
